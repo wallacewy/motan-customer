@@ -1,5 +1,6 @@
 logs/*
 *.log
+*.iml
 !.gitkeep
 tmp
 .DS_Store
